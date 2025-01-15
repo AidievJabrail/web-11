@@ -1,0 +1,8 @@
+ip: "127.0.0.1"
+port: 3334
+db:
+  host: "localhost"
+  port: 5432
+  user: "jabrail"
+  password: "07012006"
+  dbname: "authdb"
